@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'SATAM___';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SATAM___'), url('SATAM___.TTF') format('truetype');
+    }
+
+@font-face {
+    font-family: 'Combat';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Combat'), url('Combat.otf') format('otf');
+}
+
+h1 {
+      font-family: 'SATAM___';
+      font-weight:  200;
+      color: #E65909;
+    }
+
+h2 {
+    font-family: 'Combat';
+    font-weight:  200;
+    color: #FFFFFF;
+}
+

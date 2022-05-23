@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WizardrytheAssembling/static/css/main.bf089e89.css",
+    "main.js": "/WizardrytheAssembling/static/js/main.a8680085.js",
+    "static/js/787.fb7b1337.chunk.js": "/WizardrytheAssembling/static/js/787.fb7b1337.chunk.js",
+    "static/media/SATAM___.TTF": "/WizardrytheAssembling/static/media/SATAM___.a8f44a11efe5dbfb3240.TTF",
+    "static/media/Combat.otf": "/WizardrytheAssembling/static/media/Combat.d15dc14d8401b3add569.otf",
+    "index.html": "/WizardrytheAssembling/index.html",
+    "main.bf089e89.css.map": "/WizardrytheAssembling/static/css/main.bf089e89.css.map",
+    "main.a8680085.js.map": "/WizardrytheAssembling/static/js/main.a8680085.js.map",
+    "787.fb7b1337.chunk.js.map": "/WizardrytheAssembling/static/js/787.fb7b1337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf089e89.css",
+    "static/js/main.a8680085.js"
+  ]
+}
